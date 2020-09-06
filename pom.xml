@@ -45,9 +45,9 @@
 		</plugins>
 	</build>
 	<scm>
-		<!-- <connection>scm:git:ssh://git@github.com:sameervogeti/sfg-pet-clinic.git</connection>-->
+		<connection>scm:git:ssh://git@github.com:sameervogeti/sfg-pet-clinic.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com:sameervogeti/sfg-pet-clinic.git</developerConnection>
-		<!-- <url>https://github.com/sameervogeti/sfg-pet-clinic/tree/master</url>-->
+		<url>https://github.com/sameervogeti/sfg-pet-clinic/tree/master</url>
 
   </scm>
 
